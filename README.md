@@ -1,5 +1,3 @@
-# Scaled Robotics Assesment Backend
-DIGITIZING CONSTRUCTION
 
 ## Required Features
 - Users can store starships infor
